@@ -1,9 +1,17 @@
-// Work through these Exercises from Bitovi Academy.
-// Disregard the "Verify" sections, as we do not have a testing environment set up yet.
 
-// https://www.bitovi.com/academy/learn-typescript/keyof-typeof.html
-// https://www.bitovi.com/academy/learn-typescript/generics.html
-// https://www.bitovi.com/academy/learn-typescript/utility-types.html
-// https://www.bitovi.com/academy/advanced-typescript/generics-with-constraints.html
-// https://www.bitovi.com/academy/advanced-typescript/mapped-types.html
-// https://www.bitovi.com/academy/advanced-typescript/conditional-types.html
+// Part 1: Callbacks
+// import "./part1/exercise1a.js";  // Basic Callbacks
+// import "./part1/exercise1b.js";  // Callback Hell
+// import "./part1/exercise1c.js";  // Parallel Callbacks
+
+// Part 2: Promises
+// import "./part2/exercise2a.js";  // Converting from Callbacks
+// import "./part2/exercise2b.js";  // Promise Chaining
+// import "./part2/exercise2c.js";  // Promise.all and Race
+
+// Part 3: Async/Await
+// import "./part3/exercise3a.js";  // Async/Await Refactor
+// import "./part3/exercise3b.js";  // Error Handling with Async/Await
+// import "./part3/exercise3c.js";  // Parallel Async/Await
+
+ 
